@@ -1,0 +1,6 @@
+.progressBar {
+    border: 2px solid gray;
+    border-radius: 2px;
+    width: 100%;
+    height: 200px;
+}

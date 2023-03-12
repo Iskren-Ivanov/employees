@@ -1,0 +1,22 @@
+.uploadFile_wrapper_input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.uploadFile_wrapper_input_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.uploadFile_wrapper_visualisationData {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.uploadFile_wrapper_visualisationData_error {
+    color: red;
+    width: 30rem;
+}
